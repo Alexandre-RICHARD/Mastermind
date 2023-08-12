@@ -1,8 +1,6 @@
 {
-    "name": "project-to-define",
-    "version": "1.0.0",
-    "description": "PROJET A DEFINIR",
-    "main": "webpack.config.js",
+    "name": "mastermind",
+    "version": "1.0.1",
     "scripts": {
         "start": "cross-env NODE_ENV=development webpack serve --history-api-fallback",
         "build": "cross-env NODE_ENV=production webpack",
@@ -13,10 +11,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "git"
+        "url": "git+https://github.com/Alexandre-RICHARD/Mastermind.git"
     },
-    "keywords": [],
-    "author": "",
     "license": "ISC",
     "devDependencies": {
         "@babel/core": "^7.22.9",
@@ -33,7 +29,6 @@
         "css-loader": "^6.8.1",
         "css-minimizer-webpack-plugin": "^4.2.2",
         "cssnano": "^5.1.15",
-        "dotenv-webpack": "^8.0.1",
         "esbuild": "^0.14.54",
         "eslint": "^8.46.0",
         "eslint-import-resolver-alias": "^1.1.2",
