@@ -2,9 +2,8 @@
 
 Bonjour, bienvenue sur ce petit repo d'une reproduction du jeu du Mastermind. Il s'agit d'un tout petit projet mais je voulais quand même l'intégrer avec les autres.
 
-Voici [le site](http://mastermind.rial7539.odns.fr/) en question.
-
-Et voici le [répo du serveur](https://github.com/Alexandre-RICHARD/Portfolio-Back) lié.
+Voici [le site](https://mastermind.alexandre-richard.fr/) en question.
+Et [son répo](https://github.com/Alexandre-RICHARD/Mastermind)
 
 ## Historique des versions
 
@@ -33,5 +32,10 @@ Et voici le [répo du serveur](https://github.com/Alexandre-RICHARD/Portfolio-Ba
 
 -   Mise à jour des packages npm
 -   Rajout de deux lignes de configurations pour webpack et vueJS
+
+### 1.0.4 `21 août 2023`
+
+-   Maintenant que j'ai récupéré le nom de domaine, actualisation de tous les liens sortant
+-   Mise à jour des packages npm
 
 </details>
